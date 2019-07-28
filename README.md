@@ -4,9 +4,9 @@ E-VOTING IS AMONG the key public sectors that can be disrupted by blockchain tec
 “wallet” containing a user credential. Each voter gets a single “coin” representing one opportunity to vote. Casting a
  vote transfers the voter’s coin to a candidate’s wallet. A voter can spend his or her coin only once. However, voters 
 can change their vote before a preset deadline.we argue that blockchains might address two of the most prevalent concerns 
-in voting today: 
-(i) voter access and 
-(ii) voter fraud.
+in voting today:  <br />
+(i) voter access and  <br />
+(ii) voter fraud. <br />
 The idea is as follows. Eligible voters cast a ballot anonymously using a computer or smartphone. BEV employs an encrypted key 
 and tamperproof personal IDs. For example, the mobile e-voting platform of the Boston-based startup Voatz employs smart 
 biometrics and real-time ID verification. The public ledger ties each cast ballot to an individual voter and establishes 
