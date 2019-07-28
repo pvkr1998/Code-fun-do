@@ -1,5 +1,5 @@
 # Code-fun-do
-blockhain based e-voting system 
+# Blockhain based e-voting system 
 E-VOTING IS AMONG the key public sectors that can be disrupted by blockchain technology.BEV issues each voter a
 “wallet” containing a user credential. Each voter gets a single “coin” representing one opportunity to vote. Casting a
  vote transfers the voter’s coin to a candidate’s wallet. A voter can spend his or her coin only once. However, voters 
